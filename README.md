@@ -1,4 +1,5 @@
 Infinite-Scroll-4-HFR
 =====================
 
-InfinjiteScroll pour le forum HFR
+Script GreaseMonkey pour avoir de l'infinite scroll sur le forum HFR
+
